@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaoze-io.github.io</id>
+    <id>http://localhost:4000</id>
     <title>肖 泽</title>
-    <updated>2022-02-13T17:21:10.310Z</updated>
+    <updated>2022-02-13T17:49:40.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiaoze-io.github.io"/>
-    <link rel="self" href="https://xiaoze-io.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://xiaoze-io.github.io/images/avatar.png</logo>
-    <icon>https://xiaoze-io.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2022, 肖 泽</rights>
     <entry>
+        <title type="html"><![CDATA[我的联系方式]]></title>
+        <id>http://localhost:4000/nztmlhYtu/</id>
+        <link href="http://localhost:4000/nztmlhYtu/">
+        </link>
+        <updated>2022-02-13T17:37:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>QQ，微信还有拨打电话等</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>QQ，微信还有拨打电话等</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiaoze-io.github.io/hello-gridea/</id>
-        <link href="https://xiaoze-io.github.io/hello-gridea/">
+        <id>http://localhost:4000/hello-gridea/</id>
+        <link href="http://localhost:4000/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
