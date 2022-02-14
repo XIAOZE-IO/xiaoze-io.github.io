@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaoze-io.github.io</id>
     <title>肖 泽</title>
-    <updated>2022-02-14T08:55:45.577Z</updated>
+    <updated>2022-02-14T21:59:40.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaoze-io.github.io"/>
     <link rel="self" href="https://xiaoze-io.github.io/atom.xml"/>
@@ -11,12 +11,29 @@
     <icon>https://xiaoze-io.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 肖 泽</rights>
     <entry>
-        <title type="html"><![CDATA[无感的情人节]]></title>
-        <id>https://xiaoze-io.github.io/wu-gan-de-qing-ren-jie/</id>
-        <link href="https://xiaoze-io.github.io/wu-gan-de-qing-ren-jie/">
+        <title type="html"><![CDATA[本站开发支持]]></title>
+        <id>https://xiaoze-io.github.io/ben-zhan-kai-fa-guo-cheng/</id>
+        <link href="https://xiaoze-io.github.io/ben-zhan-kai-fa-guo-cheng/">
         </link>
-        <updated>2022-02-14T08:55:08.000Z</updated>
-        <content type="html"><![CDATA[<p>请等待更新</p>
+        <updated>2022-02-14T18:13:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>基于 GitHub Pages，开源博客系统Gridea的轻量博客网站。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>基于 GitHub Pages，开源博客系统Gridea的轻量博客网站。</p>
+<!-- more -->
+<p>1.github相关</p>
+<p>github是全球最大的代码托管仓库，github pages可以为你的项目提供的网站，这是官网链接，可以查看介绍和和帮助文档。</p>
+<p>在github创建一个大概与你用户名一样的仓库，将静态网页代码托管到仓库，你就可以通过github提供的免费的二级域名访问到你的网站，今后只需编辑、推送，您的更改就会生效。</p>
+<p>前面是大概的介绍，你对其中的一些名词感兴趣，可以在搜索引擎里搜索答案，就像：<a href="https://www.bing.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5&amp;qs=n&amp;form=QBRE&amp;sp=-1&amp;pq=%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5&amp;sc=2-7&amp;sk=&amp;cvid=DA74621618AF458DAF53938E0454FF8A">什么是静态网页 - 搜索</a></p>
+<p>现在你可以跟着我的步骤开始探索之旅，</p>
+<p>如果有些小疑问，你可以停下来寻找答案，或者跟着继续，相信在后面。你也可以轻松的理解他们。</p>
+<p>1.1github账号注册</p>
+<p>这部分都将在英文环境下完成，你可以跟着完成操作后，使用带有语言翻译的浏览器（chrome，edge...）翻译页面后理解操作意思。</p>
+<p>打开GitHub<a href="https://github.com/">GitHub</a>官网，</p>
+<p>点击右上角的 sign up，</p>
+<figure data-type="image" tabindex="1"><img src="https://img.itired.cc/images/2022/02/15/1.png" alt="" loading="lazy"></figure>
+<p>依次输入你的邮箱和密码，用户名，</p>
+<figure data-type="image" tabindex="2"><img src="https://img.itired.cc/images/2022/02/15/02.png" alt="" loading="lazy"></figure>
+<p>用户名具有唯一性，如果你不考虑使用自己的域名，而是使用GitHub的二级域名，以后别人将通过<code>用户名.github.io</code>这样的域名访问到你的网站，当然你也可以选择使用自己的域名。</p>
 ]]></content>
     </entry>
     <entry>
@@ -30,6 +47,10 @@
         <content type="html"><![CDATA[<p>QQ，微信还有拨打电话等</p>
 <!-- more -->
 <h1 id="请等待更新">请等待更新</h1>
+<a href="mailto:imsv@foxmail.com?Subject=Hello%20肖泽" target="_top">
+发送邮件</a>
+<h1 id="or">OR</h1>
+<p><a href="https://qm.qq.com/cgi-bin/qm/qr?k=DJo_oywNgE-XcdBZSFG8nPoGYIrp-iQh&noverify=0" target="_blank">添加QQ</a></p>
 ]]></content>
     </entry>
     <entry>
